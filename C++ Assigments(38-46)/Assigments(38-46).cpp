@@ -4,14 +4,14 @@
 // "Number 900 Award Is: Car"
 
 
-#include <iostream>
-#include <array>
-#include <string.h>
+// #include <iostream>
+// #include <array>
+// #include <string.h>
 
-using namespace std;
-int main()
-{
-    // Assigment Number[1]
+// using namespace std;
+// int main()
+// {
+//     // Assigment Number[1]
     // int nums[]{100, 300, 600, 900};
     // string awards[]{"iPhone", "iPad", "PC", "Car"};
     // cout <<  "Number " <<   nums[0] << " Award Is : " << awards[0]  << endl ;  
@@ -260,22 +260,22 @@ int main()
 
     // Assigment [13]
 
-    string fName = "Elzero ";
-    string mName = "Web ";
-    string lName = "School";
+    // string fName = "Elzero ";
+    // string mName = "Web ";
+    // string lName = "School";
 
-    // Method 1
+    // // Method 1
 
-    cout << fName +mName+  lName  << endl; 
+    // cout << fName +mName+  lName  << endl; 
 
-    // Method 2
+    // // Method 2
 
-    cout << fName.append(mName) << lName << endl; 
+    // cout << fName.append(mName) << lName << endl; 
 
-    // Method 3
+    // // Method 3
 
-    cout << fName <<  lName << endl;
-    // cout << strcat(fName,mName,lName) ;
+    // cout << fName <<  lName << endl;
+    // // cout << strcat(fName,mName,lName) ;
 
 // // Output Needed
 // Elzero Web School
@@ -286,4 +286,5 @@ int main()
      // تم بحمد الله 23\8
 
     return 0;
+
 }   
